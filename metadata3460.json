@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3460",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233460.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Piercing Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Golden Crown Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Iron Armor"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Chain of strength"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3460.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

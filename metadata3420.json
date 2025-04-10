@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3420",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233420.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beast Jaw"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blod"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Superhero outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3420.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

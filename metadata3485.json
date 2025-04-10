@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3485",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233485.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Aviator Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crocodile Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Artist's Red Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red t-shirt"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Victory pendant"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3485.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

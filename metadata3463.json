@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3463",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233463.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Maro the Precise Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Exposed Brain"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Beach shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3463.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

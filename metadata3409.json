@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3409",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233409.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jealous Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Steam Punk Vision"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3409.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #3411",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233411.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweet Heart Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3411.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

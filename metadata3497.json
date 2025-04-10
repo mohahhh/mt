@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3497",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233497.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Winter Fur Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Print T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3497.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

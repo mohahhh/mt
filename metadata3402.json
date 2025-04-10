@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3402",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233402.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Maro the Precise Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Royal Crown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow hoodie with straps"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3402.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

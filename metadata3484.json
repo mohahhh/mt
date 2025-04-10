@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3484",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233484.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hyperionis"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Maro the Precise Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Swiss Cheese Laugh"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Hat of Doom"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cinematic suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3484.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

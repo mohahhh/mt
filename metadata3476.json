@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3476",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233476.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Skull Mask"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Suspender T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3476.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

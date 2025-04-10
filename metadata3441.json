@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3441",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233441.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Firo the swift Dodger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Volcanic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Swiss Cheese Laugh"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Print T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3441.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

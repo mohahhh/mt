@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3459",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233459.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tibo the Mysterious Shadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Justice Outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3459.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

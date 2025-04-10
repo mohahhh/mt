@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3443",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233443.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Wise Turban"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweet Heart Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3443.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

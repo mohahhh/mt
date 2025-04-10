@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3493",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233493.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Confusion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Clown outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3493.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3424",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233424.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nino the Mastered Planner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Inferno Strands"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunset Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3424.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

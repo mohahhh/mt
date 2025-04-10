@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3447",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233447.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nino the Mastered Planner"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Artist's Red Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunset Hoodie"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Chain of strength"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3447.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

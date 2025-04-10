@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3467",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233467.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Fifo the camouflaged Dancer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Sports Head Band"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Royal suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3467.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

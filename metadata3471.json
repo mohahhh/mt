@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3471",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233471.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Elenora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Vengeance"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beast Jaw"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Slicked Back Blonde"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tech wear"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3471.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

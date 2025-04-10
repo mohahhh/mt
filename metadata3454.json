@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3454",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233454.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewn Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Skull Wrap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Toxic Vibes Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3454.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #3486",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233486.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Beach shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3486.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

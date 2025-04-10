@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3452",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233452.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Survival Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Future Armor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3452.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

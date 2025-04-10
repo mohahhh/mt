@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #3419",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233419.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Piercing Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Print T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3419.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

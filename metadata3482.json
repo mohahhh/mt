@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3482",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n35/refs/heads/main/roozoo-%233482.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Survival Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3482.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
