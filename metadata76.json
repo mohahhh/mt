@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #76",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n1/refs/heads/main/roozoo-%2376.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Niro the mysterious Phantom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Dark Spider Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#76.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

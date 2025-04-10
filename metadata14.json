@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #14",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n1/refs/heads/main/roozoo-%2314.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tibo the Mysterious Shadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Skiing outfit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Silver cross necklace"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#14.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

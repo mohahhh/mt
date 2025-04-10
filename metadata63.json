@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #63",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n1/refs/heads/main/roozoo-%2363.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipserra"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Night Monster Jaw"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Crimson Bandana"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#63.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

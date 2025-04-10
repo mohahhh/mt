@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #100",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n1/refs/heads/main/roozoo-%23100.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Injured Zombie Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Pioneer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#100.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

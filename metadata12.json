@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #12",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n1/refs/heads/main/roozoo-%2312.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Flame Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Gangster Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Painter outfit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Crescent chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#12.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
