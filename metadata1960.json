@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #1960",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n20/refs/heads/main/roozoo-%231960.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Flame Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cinematic suit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Chain of strength"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#1960.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
