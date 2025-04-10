@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #1195",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n12/refs/heads/main/roozoo-%231195.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunset Hoodie"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Green scarf"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#1195.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

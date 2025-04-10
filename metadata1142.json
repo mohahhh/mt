@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #1142",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n12/refs/heads/main/roozoo-%231142.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewn Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Captain’s Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Karate Outfit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Red scarf"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#1142.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

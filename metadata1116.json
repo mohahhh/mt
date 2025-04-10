@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #1116",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n12/refs/heads/main/roozoo-%231116.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Flame Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Ice Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#1116.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
