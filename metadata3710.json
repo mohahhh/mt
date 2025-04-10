@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3710",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233710.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Youthful Ice Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Royal suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3710.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

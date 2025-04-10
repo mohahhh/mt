@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3727",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233727.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tibo the Mysterious Shadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Vengeance"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Tiger Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3727.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

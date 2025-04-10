@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3767",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233767.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Dark Spider Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Captain's outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3767.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

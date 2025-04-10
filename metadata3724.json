@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3724",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233724.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Toxic Vibes Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3724.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

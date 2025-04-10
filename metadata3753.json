@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3753",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233753.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jealous Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewn Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Lock Wavy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3753.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

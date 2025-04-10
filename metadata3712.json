@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3712",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233712.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipserra"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Skull Mask"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Emerald Blaze Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Iron Armor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3712.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

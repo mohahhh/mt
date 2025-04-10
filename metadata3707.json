@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3707",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233707.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Volcanic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sewn Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blod"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Beach shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3707.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

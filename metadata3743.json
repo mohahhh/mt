@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3743",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233743.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Youthful Ice Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Santa Coat"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Victory pendant"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3743.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

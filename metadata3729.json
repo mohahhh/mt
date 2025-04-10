@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3729",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233729.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipserra"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Vengeance"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phantom Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "New Years Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Royal suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3729.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3744",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233744.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hyperionis"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Fifo the camouflaged Dancer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jealous Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "White Flat Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spring Shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3744.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

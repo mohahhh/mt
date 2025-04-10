@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3723",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233723.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Niro the mysterious Phantom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Youth Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tech wear"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3723.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

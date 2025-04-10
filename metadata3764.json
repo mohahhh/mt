@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3764",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233764.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Aviator Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Hoodie"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Crescent chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3764.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

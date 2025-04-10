@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3775",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233775.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Death"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crocodile Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Frosted Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Crimson commander hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3775.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

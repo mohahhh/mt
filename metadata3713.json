@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3713",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233713.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crocodile Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Gangster Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Portugal t-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3713.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3782",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233782.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Skull Mask"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Ice Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3782.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

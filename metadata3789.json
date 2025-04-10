@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3789",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233789.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hyperionis"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Crown Rose"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Gold dollar chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3789.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

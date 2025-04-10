@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3722",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n38/refs/heads/main/roozoo-%233722.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Elenora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Robot Helmet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow hoodie with straps"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Chain of strength"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3722.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
