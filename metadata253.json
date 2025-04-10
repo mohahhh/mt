@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #253",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n3/refs/heads/main/roozoo-%23253.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Kimo the Brave warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Tied Warrior Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls T-shirt"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Silver cross necklace"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#253.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
