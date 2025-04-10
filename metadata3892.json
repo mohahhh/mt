@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3892",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233892.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Jito the cunning Deceiver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Skull Mask"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Axe of Destruction"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3892.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

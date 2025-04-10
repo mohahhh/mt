@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3859",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233859.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Kimo the Brave warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hallucination Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Bad Boy Outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3859.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

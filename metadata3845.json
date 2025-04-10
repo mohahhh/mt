@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #3845",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233845.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Braided Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Pioneer"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Dog chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3845.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3880",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233880.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Aviator Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phantom Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Bandana of the heart of Darkness"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Royal midnight jacket"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3880.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

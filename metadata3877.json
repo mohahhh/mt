@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #3877",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233877.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3877.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3827",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233827.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Flame Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Robot Helmet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow hoodie with straps"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3827.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

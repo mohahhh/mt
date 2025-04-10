@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #3809",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n39/refs/heads/main/roozoo-%233809.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tibo the Mysterious Shadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beast Jaw"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Artist's Red Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#3809.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
