@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #2620",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n27/refs/heads/main/roozoo-%232620.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doom’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Skull Mask"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Royal Crown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Santa Coat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#2620.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

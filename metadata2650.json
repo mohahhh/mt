@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #2650",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n27/refs/heads/main/roozoo-%232650.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Firo the swift Dodger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crocodile Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Steam Punk Vision"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Royal midnight jacket"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#2650.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #2647",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n27/refs/heads/main/roozoo-%232647.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Confusion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Golden Waves"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Saiyan spirit vest"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#2647.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
