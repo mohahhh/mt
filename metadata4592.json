@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4592",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234592.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ombrax"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Night Monster Jaw"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "New Years Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Tiger Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4592.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

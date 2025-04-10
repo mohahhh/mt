@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4597",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234597.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jealous Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Gangster Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Crimson commander hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4597.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

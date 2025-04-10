@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #4507",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234507.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4507.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

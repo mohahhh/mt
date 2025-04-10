@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4520",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234520.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Inferno Strands"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Retro Purple"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4520.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

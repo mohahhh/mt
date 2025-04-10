@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4588",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234588.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipserra"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crocodile Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Painter outfit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Dog chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4588.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #4526",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234526.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Tiger Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4526.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #4595",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234595.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Alveron"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Jito the cunning Deceiver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden Aviator Goggles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Flame Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Dog chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4595.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

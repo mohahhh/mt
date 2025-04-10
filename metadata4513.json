@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4513",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234513.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Kadix"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Crimson Flame"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Suspender T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4513.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4511",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234511.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Firo the swift Dodger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Ice Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Justice Outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4511.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

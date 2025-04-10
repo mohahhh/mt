@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4599",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234599.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Vengeance"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Pink Ninja Bandana"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tech wear"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4599.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

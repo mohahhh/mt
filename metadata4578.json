@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4578",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234578.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arkeon"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Figo the silent Executor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Spiky Pink"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Print T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4578.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

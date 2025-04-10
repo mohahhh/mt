@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4521",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234521.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Golden Waves"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweet Heart Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4521.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

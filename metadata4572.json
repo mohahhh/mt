@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #4572",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234572.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Niro the mysterious Phantom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Santa Coat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4572.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4568",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234568.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Confusion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Candel"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4568.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

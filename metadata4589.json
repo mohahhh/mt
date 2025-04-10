@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4589",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234589.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Banana Peel"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Tiger Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4589.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

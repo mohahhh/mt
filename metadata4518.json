@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4518",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234518.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Captain’s Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Future Armor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4518.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

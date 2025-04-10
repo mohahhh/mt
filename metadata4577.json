@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4577",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234577.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tito the hidden spy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jealous Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Captain’s Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Portugal t-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4577.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

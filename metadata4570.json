@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4570",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234570.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Maro the Precise Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hallucination Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "New Years Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4570.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

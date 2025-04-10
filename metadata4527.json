@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4527",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234527.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hyperionis"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Niro the mysterious Phantom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Ice Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Iron Armor"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4527.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

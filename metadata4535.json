@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4535",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234535.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aetherion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Fifo the camouflaged Dancer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Punishment Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Shadow Edge Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cinematic suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4535.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4533",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234533.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmohyne"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hallucination Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "New Years Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Overalls T-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4533.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4593",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234593.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Injured Zombie Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4593.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

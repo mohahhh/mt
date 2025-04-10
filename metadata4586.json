@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #4586",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234586.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Confusion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Reversed Cap"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red Hoodie"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Crescent chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4586.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

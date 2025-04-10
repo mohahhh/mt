@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4579",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234579.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bebo the mad killer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hell Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Ice Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tech wear"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4579.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

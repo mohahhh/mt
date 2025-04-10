@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4575",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234575.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ombrax"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Volcanic Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Monster Scream"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Emerald Blaze Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "US Army Soldier"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4575.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

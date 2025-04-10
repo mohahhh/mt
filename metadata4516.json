@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4516",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234516.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ombrax"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Livo the Valiant Knight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Piercing Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Ice Cream"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunset Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4516.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

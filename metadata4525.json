@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4525",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234525.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forasia"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phantom Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Spiky Wild"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Portugal t-shirt"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4525.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

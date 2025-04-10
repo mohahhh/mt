@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4501",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234501.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Migo the Brutal Destroyer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Destruction"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Dark Spider Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Yellow hoodie with straps"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4501.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

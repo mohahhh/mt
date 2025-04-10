@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4536",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234536.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Galaxora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Niro the mysterious Phantom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye of Rage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Swiss Cheese Laugh"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Robot Helmet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Royal suit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4536.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

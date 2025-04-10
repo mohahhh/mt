@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #4503",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234503.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipserra"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beast Jaw"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Demonic outfit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4503.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

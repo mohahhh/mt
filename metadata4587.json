@@ -1,0 +1,39 @@
+{
+  "name": "RooZoo #4587",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234587.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riko the strong Warrior"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phantom Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4587.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

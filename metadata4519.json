@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4519",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234519.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aurelion"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Jito the cunning Deceiver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Shadow Edge Hair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tech wear"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4519.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

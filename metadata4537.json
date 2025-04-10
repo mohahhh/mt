@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #4537",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234537.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Riro the clever tactician"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Death"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zombie Grin"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Winter Fur Hat"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tiger Hoodie"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4537.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

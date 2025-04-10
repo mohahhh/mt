@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #4509",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234509.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Elenora"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Firo the swift Dodger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Confusion"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Phantom Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Green Robot Helmet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Santa Coat"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Victory pendant"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4509.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #4524",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234524.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zizo the Precise Sniper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes of Vengeance"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison Smile"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Royal Crown"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Clown outfit"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Dog chain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4524.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #4557",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n46/refs/heads/main/roozoo-%234557.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lumivara"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Jito the cunning Deceiver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gaze of Flame"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Euro"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Blue Blossom"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sunset Hoodie"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Silver cross necklace"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#4557.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
