@@ -1,0 +1,47 @@
+{
+  "name": "RooZoo #802",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n9/refs/heads/main/roozoo-%23802.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Geocima"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Tibo the Mysterious Shadow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hell’s Gaze"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jack-o-lantern Mouth"
+    },
+    {
+      "trait_type": "Head acssisories",
+      "value": "Red Robot Helmet"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Red t-shirt"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Red scarf"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#802.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "RooZoo #871",
+  "description": "RooZoo",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/mohahhh/n9/refs/heads/main/roozoo-%23871.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Xylius"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Lido serial murder"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Flame Smile"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Iron Armor"
+    },
+    {
+      "trait_type": "Nack acssories",
+      "value": "Silver cross necklace"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "roozoo-#871.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
